@@ -35,7 +35,7 @@ I’m open to:
 
 ### 📫 How to Reach Me
 
-- 📧 Email: `shahriar.gamebanai@gmail.com`
+- 📧 Email: `shahriar.islam.dev@gmail.com`
 - 🧠 Reddit Community: [r/RustRampage_Game](https://www.reddit.com/r/RustRampage_Game)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shahriar-hassan-dev/) *(optional)*
 - 🌐 Portfolio Website: *(Add if available)*

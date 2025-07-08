@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Shahriar Hassan</h1>
+<h1 align="center">👋 Hi, I’m Shahriar Islam</h1>
 <p align="center">
   🚀 Software Engineer • 🎮 Game Developer • 🧠 Lifelong Learner
 </p>

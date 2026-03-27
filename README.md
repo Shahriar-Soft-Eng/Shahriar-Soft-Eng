@@ -36,9 +36,9 @@ I’m open to:
 ### 📫 How to Reach Me
 
 - 📧 Email: `shahriar.islam.dev@gmail.com`
-- 🧠 Reddit Community: [r/RustRampage_Game](https://www.reddit.com/r/RustRampage_Game)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shahriar-hassan-dev/) *(optional)*
-- 🌐 Portfolio Website: *(Add if available)*
+<!--- 🧠 Reddit Community: [r/RustRampage_Game](https://www.reddit.com/r/RustRampage_Game) -->
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shahriar-softwareengineer/)
+<!--- 🌐 Portfolio Website: -->
 
 ---
 
@@ -63,4 +63,4 @@ I’m open to:
 ---
 
 > ✨ *“Code is art, games are stories, and players are the heart.”*  
-> — Shahriar Hassan
+> — Shahriar Islam

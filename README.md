@@ -7,10 +7,11 @@
 
 ### 👨‍💻 About Me
 
-- 💼 I'm the lead developer and founder of **GameBanai**, a creative two-person game studio.
-- 🎮 I specialize in **Unity game development**, focusing on **mobile and PC games** with rich storytelling, strategic combat, and modular architecture.
+- 🎮 **Game Developer** with **6+ years of professional experience** in game development.
+- 💼 Currently working at **Arclite Ltd.**
+- 🛠️ I specialize in **Unity game development**, focusing on **mobile and PC games** with rich storytelling, strategic combat, and modular architecture.
 - 🔧 I love building **modular frameworks**, **AI systems**, and **interactive UIs** with a strong focus on **performance**.
-- 🌍 Based in Bangladesh — building worlds that inspire and entertain.
+- 🌍 Based in Bangladesh, building worlds that inspire and entertain.
 
 ---
 
